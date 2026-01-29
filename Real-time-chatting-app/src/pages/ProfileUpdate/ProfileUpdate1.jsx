@@ -24,5 +24,4 @@ const ProfileUpdate = () => {
     </div>
   )
 }
-
 export default ProfileUpdate
